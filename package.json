@@ -1,0 +1,7 @@
+{
+  "name": "clean-node-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Bruno de Azevedo Lima <bruno.advance.s@gmail.com>",
+  "license": "MIT"
+}
