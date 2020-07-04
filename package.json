@@ -23,6 +23,7 @@
   },
   "scripts": {
     "test": "jest --passWithNoTests --watch",
-    "test:staged": "jest --passWithNoTests"
+    "test:staged": "jest --passWithNoTests",
+    "lint:staged": "lint-staged"
   }
 }
